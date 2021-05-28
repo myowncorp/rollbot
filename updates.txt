@@ -1,0 +1,4 @@
+############# v1.1 
+1. fixed an error that cause the bomb not to reset at midnight
+2. stopped the bot from responding all errors to the server
+3. no longer prints the list of items such as ['john']['50']['karlos']['25'] before it prints the daily list
